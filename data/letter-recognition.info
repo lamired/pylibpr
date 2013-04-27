@@ -1,0 +1,31 @@
+# Dataset: ../data/letter-recognition.data
+# Num of datas     : 20000
+# Num of dimensions: 16
+# Num of categories: 26
+# -- Category 0 (T): 796
+# -- Category 1 (I): 755
+# -- Category 2 (D): 805
+# -- Category 3 (N): 783
+# -- Category 4 (G): 773
+# -- Category 5 (S): 748
+# -- Category 6 (B): 766
+# -- Category 7 (A): 789
+# -- Category 8 (J): 747
+# -- Category 9 (M): 792
+# -- Category 10 (X): 787
+# -- Category 11 (O): 753
+# -- Category 12 (R): 758
+# -- Category 13 (F): 775
+# -- Category 14 (C): 736
+# -- Category 15 (H): 734
+# -- Category 16 (W): 752
+# -- Category 17 (L): 761
+# -- Category 18 (P): 803
+# -- Category 19 (E): 768
+# -- Category 20 (V): 764
+# -- Category 21 (Y): 786
+# -- Category 22 (Q): 783
+# -- Category 23 (U): 813
+# -- Category 24 (K): 739
+# -- Category 25 (Z): 734
+

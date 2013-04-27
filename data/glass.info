@@ -1,0 +1,11 @@
+# Dataset: ../data/glass.data
+# Num of datas     : 214
+# Num of dimensions: 9
+# Num of categories: 6
+# -- Category 0 (1.0): 70
+# -- Category 1 (2.0): 76
+# -- Category 2 (3.0): 17
+# -- Category 3 (5.0): 13
+# -- Category 4 (6.0): 9
+# -- Category 5 (7.0): 29
+

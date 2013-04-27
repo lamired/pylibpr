@@ -1,0 +1,8 @@
+# Dataset: ../data/iris.data
+# Num of datas     : 150
+# Num of dimensions: 4
+# Num of categories: 3
+# -- Category 0 (Iris-setosa): 50
+# -- Category 1 (Iris-versicolor): 50
+# -- Category 2 (Iris-virginica): 50
+

@@ -2,19 +2,19 @@
 #coding: utf-8
 
 # Author: Tsukasa Ohashi
-# Last Change: 2013/04/28 00:01:22. 
+# Last Change: 2013/05/05 18:58:07. 
 
 import numpy
 
 class MVA(object):
-    """Super class for all MultiVariate Analysis methods.
+    """MultiVariate Analysis super model
     """
     def __init__(self, features, categories, num_categories):
         self.features = numpy.array(features)
         self.categories = categories
-        self.num_categories = num_categories
         self.num_samples = self.features.shape[0]
         self.num_dimensions = self.features.shape[1]
+        self.num_categories = num_categories
 
     def get_sigmoid(self, x):
         return 1.0 / (1.0 + numpy.exp(-x))
